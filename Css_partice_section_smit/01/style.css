@@ -1,0 +1,70 @@
+/* .text{
+  background-color: brown;
+  color: coral;
+}
+
+
+h1,pre{
+  background-color: violet;
+  color:lightgreen;
+}
+
+
+
+
+h1,pre{
+  background-color: aqua;
+  color: blue;
+}
+
+#school{
+  background-color: aqua;
+}
+
+.list>li{
+  color: blue;
+}
+
+li>a{
+  color: chartreuse;
+}
+
+div>p,a,span{
+  background-color: chocolate;
+}
+
+.text span , li{
+  color: crimson;
+}
+ */
+/* 
+ .heading+span{
+  background-color: chartreuse;
+ }
+
+ .con+span{
+  background-color: blue;
+ }
+
+ .list_items~h2{
+  color: cadetblue;
+ }
+ */
+
+ /* h1 ~ div{
+  color: blue;
+} */
+
+
+h1{
+  color: orange  !important;
+} 
+
+
+#head{
+  color: mediumorchid;
+}
+.name{
+  color: red;
+}
+

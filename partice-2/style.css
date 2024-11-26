@@ -1,0 +1,31 @@
+body{
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+}
+.Chees_board{
+  border-spacing: 0;
+  border-collapse: collapse;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.Chees_board th{
+  padding: .5em;
+  background-color: #3E1404;
+  color: #eee;
+}
+.Chees_board td{
+  border: 1px solid white;
+  width: 2em;
+  height: 2em;
+}
+.white{
+  background-color: #eee;
+}
+.brown{
+  background-color: #3E1404;
+}
+#postion-change{
+  transform: rotate(180deg);
+}
